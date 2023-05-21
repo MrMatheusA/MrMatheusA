@@ -1,12 +1,12 @@
 ### Welcome to my GitHub 🌐
 
-My name is Matheus, I'm 19 years old and I'm currently working as a Developer Full-Stack, I hope you like my service!
+My name is Matheus, I'm 19 years old and I'm currently working as a Developer Full-Stack, I hope you like my service!<br>
 Meu nome é Matheus, tenho 19 anos e atualmente trabalho como desenvolvedor Full-Stack, espero que gostem do meu serviço!
 
-Atualmente trabalhando e postando todos os projetos realizados na plataforma **Discord**:
+Atualmente trabalhando e postando todos os projetos realizados na plataforma **Discord**:<br>
 https://angrycode.com.br/discord
 
-**Você também pode acompanhar todos os meus projetos realizados através do nosso site:**
+**Você também pode acompanhar todos os meus projetos realizados através do nosso site:**<br>
 https://angrycode.com.br/
 
 ### 📋 Programming Languages:
