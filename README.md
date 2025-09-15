@@ -1,27 +1,47 @@
-### Welcome to my GitHub 🌐
+# 👋 Welcome to my GitHub  
 
-My name is Matheus, I'm 19 years old and I'm currently working as a Developer Full-Stack, I hope you like my service!<br>
-Meu nome é Matheus, tenho 19 anos e atualmente trabalho como desenvolvedor Full-Stack, espero que gostem do meu serviço!
+Olá, me chamo **Matheus**, tenho **22 anos** e sou **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação.  
+Atualmente desenvolvo projetos utilizando **React**, **Laravel**, **Node.js**, **Express**, **MySQL**, **MongoDB**, entre outros. 🚀  
 
-Atualmente trabalhando e postando todos os projetos realizados na plataforma **Discord**:<br>
-https://angrycode.com.br/discord
+💡 Meu objetivo é criar soluções modernas, escaláveis e com foco na melhor experiência do usuário.  
 
-**Você também pode acompanhar todos os meus projetos realizados através do nosso site:**<br>
-https://angrycode.com.br/
+---
 
-### 📋 Programming Languages:
+## 🌐 Onde me encontrar:
+- 🌍 [Meu site](https://angrycode.com.br/)  
+- 💬 [Comunidade no Discord](https://angrycode.com.br/discord)  
 
-![image](https://user-images.githubusercontent.com/63622814/186559593-dccb038c-1fe6-44bc-8b50-d965b9e229dd.png)
-![image](https://user-images.githubusercontent.com/63622814/186559602-effb4445-6456-4680-9b6b-e1897a5941e4.png)
-![image](https://user-images.githubusercontent.com/63622814/186559610-84c305f1-5977-4974-ace8-8f6abb4aa267.png)
-![image](https://user-images.githubusercontent.com/63622814/186559642-95ff7bad-6d8e-4cf5-8676-1c1ab1c3d944.png)
+---
 
-### 🎆 Frameworks, Platforms and Libraries:
-![image](https://user-images.githubusercontent.com/63622814/186559683-6147e206-90e0-4025-9f51-62f9f6d40f61.png)
-![image](https://user-images.githubusercontent.com/63622814/186559697-3bc1a5d4-b140-4d40-af6b-746413216da3.png)
+## 🛠️ Tecnologias & Ferramentas  
 
-### 📄 IDEs/Editors:
-![image](https://user-images.githubusercontent.com/63622814/186559729-8dd82e4a-8f80-4ecc-81da-3320979d0ca2.png)
-![image](https://user-images.githubusercontent.com/63622814/186559734-714ce318-2236-4a6a-bb89-63b50b40cbc1.png)
+### 💻 Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 
+### 🎆 Frameworks, Bibliotecas e Plataformas
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) 
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) 
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)
 
+### 🗄️ Bancos de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
+
+### 🛠️ IDEs e Editores
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) 
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?style=flat&logo=phpstorm&logoColor=fff)
+
+---
+
+## 📈 GitHub Stats
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus&layout=compact&theme=tokyonight)
+
+---
+
+✨ Obrigado por visitar meu perfil! Fique à vontade para acompanhar meus projetos e contribuições. 🚀
