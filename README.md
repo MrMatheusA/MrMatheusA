@@ -9,7 +9,7 @@ Atualmente desenvolvo projetos utilizando **React**, **Laravel**, **Node.js**, *
 
 ## 🌐 Onde me encontrar:
 - 🌍 [Meu site](https://angrycode.com.br/)  
-- 💬 [Comunidade no Discord](https://angrycode.com.br/discord)  
+- 💬 [WhatsApp](https://wa.me/+5582993015155)  
 
 ---
 
@@ -35,11 +35,6 @@ Atualmente desenvolvo projetos utilizando **React**, **Laravel**, **Node.js**, *
 ### 🛠️ IDEs e Editores
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) 
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?style=flat&logo=phpstorm&logoColor=fff)
-
----
-
-## 📈 GitHub Stats
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMatheusA)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
