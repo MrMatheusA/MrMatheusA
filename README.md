@@ -39,8 +39,7 @@ Atualmente desenvolvo projetos utilizando **React**, **Laravel**, **Node.js**, *
 ---
 
 ## 📈 GitHub Stats
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus&layout=compact&theme=tokyonight)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMatheusA)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
