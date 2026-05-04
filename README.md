@@ -30,7 +30,8 @@ Atualmente desenvolvo projetos utilizando **React**, **Laravel**, **Node.js**, *
 
 ### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-47A248?style=flat&logo=postgresql&logoColor=fff)  
 
 ### 🛠️ IDEs e Editores
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) 
